@@ -34,7 +34,7 @@ Models an airline company database from scratch and runs queries to explore and 
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 - Python
 - Flask
 - MySQL
